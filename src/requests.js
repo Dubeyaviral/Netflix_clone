@@ -1,5 +1,4 @@
 
-// const API_KEY = '693f25307604cc865f4beb8882a80ac5' ;
 const API_KEY =  process.env.REACT_APP_NETFLIX_API_KEY ;
 
 const requests = {
